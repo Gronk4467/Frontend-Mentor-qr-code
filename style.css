@@ -1,0 +1,60 @@
+
+
+div{
+    background-color: white;
+    height: 500px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    padding: 50px;
+    border: 40px,white;
+    border-radius: 30px;
+}
+
+body{
+    background-color:hsl(212, 45%, 89%);
+}
+
+p{
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    text-align: center;
+    font-family: 'Outfit';
+    color: hsl(218, 44%, 22%);
+}
+
+.second{
+    font-size: 17px;
+    margin-left: -50px;
+    margin-right: auto;
+    margin-top: -40px;
+    text-align: center; 
+    background-color:white;
+    height: 100px;
+    width: 300px;
+    padding: 50px;
+    border: 40px,white;
+    border-radius: 30px;
+    color: gray;
+}
+
+#box2{
+    background-color:blue;
+    height: 230px;
+    width: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -585px;
+    padding: 50px;
+    border: 40px,blue;
+    border-radius: 30px;
+    background-image: url(image-qr-code.png);
+    background-position: center;
+    background-size: contain;
+}
+
+
+
